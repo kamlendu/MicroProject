@@ -1,0 +1,10 @@
+ictmsa/msaapp/config/Producers.class
+client/ExampleClient.class
+entity/BookMaster_.class
+servlets/MSAServlet.class
+ictmsa/msaapp/config/BootStrap.class
+model/DataModel.class
+ictmsa/msaapp/service/HealthCheckService.class
+entity/BookMaster.class
+ictmsa/msaapp/config/CrossOriginResourceSharingFilter.class
+ictmsa/msaapp/service/ExampleService.class

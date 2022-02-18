@@ -1,0 +1,2 @@
+FROM payara/micro
+COPY MSAClient/artifact/MSAClient.war $DEPLOY_DIR

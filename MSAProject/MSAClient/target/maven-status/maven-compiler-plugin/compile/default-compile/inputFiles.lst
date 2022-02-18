@@ -1,0 +1,11 @@
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/servlets/ClientServlet.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/client/MyServiceClient.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/ictmsa/msaclient/service/HealthCheckService.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/ictmsa/msaclient/config/BootStrap.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/ictmsa/msaclient/service/package-info.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/ictmsa/msaclient/service/ExampleService.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/token/GenerateToken.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/entity/BookMaster.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/ictmsa/msaclient/config/Producers.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/token/MPJWTToken.java
+/root/Desktop/microservices/ict2021/msadocker/MSAClient/src/main/java/ictmsa/msaclient/config/CrossOriginResourceSharingFilter.java

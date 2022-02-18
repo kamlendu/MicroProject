@@ -1,0 +1,10 @@
+ictmsa/msaclient/service/ExampleService.class
+entity/BookMaster.class
+token/GenerateToken.class
+ictmsa/msaclient/config/CrossOriginResourceSharingFilter.class
+client/MyServiceClient.class
+ictmsa/msaclient/service/HealthCheckService.class
+servlets/ClientServlet.class
+ictmsa/msaclient/config/Producers.class
+token/MPJWTToken.class
+ictmsa/msaclient/config/BootStrap.class
