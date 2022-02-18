@@ -2,21 +2,21 @@ version: '2.3'
 services:
   appcontainer:
     container_name: appcontainer
-    image: appimage:latest
+    image: kamlendupandey/appimage:latest
     ports:
      - 7080:8080  
     networks: 
         - inetwork
   clcontainer:
     container_name: clcontainer
-    image: climage:latest
+    image: kamlendupandey/climage:latest
     ports:
      - 7060:8080
     networks: 
         - inetwork 
   database:
     container_name: database
-    image: mysqldata
+    image: kamlendupandey/mysqldata
     volumes:
      - data:/var/lib/mysql
     ports:
