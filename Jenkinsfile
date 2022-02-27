@@ -6,8 +6,8 @@ pipeline {
   stage('Docker Build and Tag') {
            steps {
                 dir('MSAProject'){     
-                 sh "/usr/local/bin/docker-compose down"         
-                sh "/usr/local/bin/docker-compose up -d"
+                 sh "/usr/bin/docker-compose down"         
+                sh "/usr/bin/docker-compose up -d"
                 }
              
           }
